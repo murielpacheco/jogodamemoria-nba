@@ -1,2 +1,2 @@
 ## Jogo da Memória - NBA Teams
-url('./')
+(https://github.com/murielpacheco/jogodamemoria-nba/blob/main/jogodamemoria-nba.gif)
